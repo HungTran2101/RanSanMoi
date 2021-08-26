@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/Code VS2019/RanSanMoi/cmake-build-debug/CMakeFiles/RanSanMoi.dir/embed.manifest"

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Code VS2019/RanSanMoi/kmin_console.cpp
+kmin_console.h
+D:/Code VS2019/RanSanMoi/kmin_console.h
+
+D:/Code VS2019/RanSanMoi/kmin_console.h
+stdio.h
+-
+conio.h
+-
+windows.h
+-
+
+D:/Code VS2019/RanSanMoi/main.cpp
+kmin_console.h
+D:/Code VS2019/RanSanMoi/kmin_console.h
+ctime
+-
+string.h
+-
+
